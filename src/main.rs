@@ -25,7 +25,7 @@ fn main() {
 		words[index].as_str()
 	}).collect::<Vec<&str>>();
 
-	// And choose on of them.
+	// And choose one of them.
 	let index = rng.gen::<usize>() % 100;
 	println!("{}", table[index]);
 }
