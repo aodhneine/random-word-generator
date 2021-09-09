@@ -1,7 +1,6 @@
-# Random Words
+# Random Word Generator
 
-Generates random, 3 to 4 letter English word. Written in Rust because I heard
-it's fast
+Generates random English word. Written in Rust because I heard it's fast
 
 ## Copying
 
